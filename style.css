@@ -690,7 +690,7 @@ footer .line-footer p a {
 
     section.sobre .flex {
         align-items: center;
-        gap: 40px;
+        gap: 60px;
     }
 
 
@@ -707,6 +707,7 @@ footer .line-footer p a {
 
     section .sobre .img-sobre {
         width: 100%;
+        position: flex;
     }
 
     /*portifólio*/
