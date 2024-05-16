@@ -684,13 +684,13 @@ footer .line-footer p a {
     /*estilo sobre*/
 
     section.sobre {
-        padding: 80px 8%;
+        padding: 20px 4%;
 
     }
 
     section.sobre .flex {
         align-items: center;
-        gap: 60px;
+        gap: 40px;
     }
 
 
@@ -707,7 +707,6 @@ footer .line-footer p a {
 
     section .sobre .img-sobre {
         width: 100%;
-        position: flex;
     }
 
     /*portifólio*/
