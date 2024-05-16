@@ -433,6 +433,10 @@ section.sobre .flex {
    
 }
 
+.sobre .img-sobre{
+    position: relative;
+}
+
 
 .sobre .txt-sobre {
     color: #fff;
