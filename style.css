@@ -368,7 +368,6 @@ section.especialidades .flex {
 /*estilo da formação*/
 section.formacao {
     padding: 60px 4%;
-    box-shadow: 0 0 40px 10px #ca18d7aa;
    
 }
 
@@ -650,7 +649,7 @@ footer .line-footer p a {
     /*topo do site*/
     section.topo-do-site .flex {
         gap: 40px;
-        ;
+        
     }
 
 
@@ -692,6 +691,7 @@ footer .line-footer p a {
     }
 
 
+
     .sobre .txt-sobre h2 {
         font-size: 34px;
         line-height: 35px;
@@ -702,7 +702,7 @@ footer .line-footer p a {
         text-align: center;
     }
 
-    img-sobre {
+    section .sobre .img-sobre {
         width: 100%;
     }
 
@@ -712,7 +712,7 @@ footer .line-footer p a {
         box-shadow: 0 0 40px 10px #ca18d7aa;
     }
 
-    .img-projetos {
+    section .portifolio .img-projetos {
         width: 100%;
         max-width: 360px;
         margin: 0 auto;
