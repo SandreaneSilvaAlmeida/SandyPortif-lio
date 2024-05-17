@@ -515,7 +515,12 @@ section.portifolio .flex {
     cursor: pointer;
     border-radius: 40px;
     position: relative;
+    margin-bottom: 50px;
 
+}
+
+section .portifolio h2.titulo {
+    margin-top: 30px;
 }
 
 .img-projetos:hover {
