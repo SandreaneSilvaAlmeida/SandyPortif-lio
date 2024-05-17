@@ -642,7 +642,7 @@ footer .line-footer p a {
     text-decoration: none;
 }
 
-footer .footer-content .fa-heart i span{
+footer .footer-content .fa-heart i span {
     background:transparent;
     color: #f6f2f27e;
     text-align: center;
@@ -650,7 +650,7 @@ footer .footer-content .fa-heart i span{
 
 }
 
-footer .footer-content{
+footer .footer-content {
     padding:10px;
 }
    
@@ -763,6 +763,15 @@ footer .footer-content{
         gap: 30px;
 
     }
+    
+    footer .footer-content {
+        padding: 8px;
+        }
+        
+    footer .footer-content i {
+        text-align: center;
+        }
+        
 
     footer .line-footer {
         text-align: center;
