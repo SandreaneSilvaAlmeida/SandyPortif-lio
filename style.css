@@ -634,8 +634,15 @@ footer .line-footer p a {
     color: #fff;
     text-decoration: none;
 }
+footer .footer-content{
+    background:transparent;
+    color: #f6f2f27e;
+    text-align: center;
+    padding: 10px;
 
-/**/
+}
+
+/*versao mobile*/
 @media screen and (max-width:1020px) {
 
     /*classes gerais*/
