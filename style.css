@@ -642,21 +642,17 @@ footer .line-footer p a {
     text-decoration: none;
 }
 
-footer .footer-content i span{
+footer .footer-content .fa-heart i span{
     background:transparent;
+    color: #f6f2f27e;
     text-align: center;
-    padding: 10px;
+    font-size: 15px;
 
 }
 
 footer .footer-content{
-    background:transparent;
-    color: #f6f2f27e;
-    text-align: center;
-    padding: 10px;
-    font-size: 15px;
+    padding:10px;
 }
-
    
 
 
