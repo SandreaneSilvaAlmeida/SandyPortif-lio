@@ -642,7 +642,7 @@ footer .line-footer p a {
     text-decoration: none;
 }
 
-footer .footer-content .1 .fa-heart span {
+footer .autoria .autoria1 i span {
     background:transparent;
     color: #f6f2f27e;
     text-align: center;
@@ -650,7 +650,7 @@ footer .footer-content .1 .fa-heart span {
 
 }
 
-footer .footer-content {
+footer .autoria {
     padding:10px;
 }
    
