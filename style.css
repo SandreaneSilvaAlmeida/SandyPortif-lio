@@ -642,18 +642,19 @@ footer .line-footer p a {
     text-decoration: none;
 }
 
-footer .autoria i span {
+footer .footer-content{
     background:transparent;
     color: #f6f2f27e;
     text-align: center;
-    font-size: 15px;
+    padding: 10px;
 
-}
-
-footer .autoria {
-    padding:10px;
 }
    
+
+.footer-content {
+    font-size: 15px;
+}
+
 
 
 /*versao mobile*/
